@@ -4,5 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-qinglong:latest
-qinglong:debian
+whyour/qinglong:latest
+whyour/qinglong:debian
