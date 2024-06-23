@@ -7,5 +7,4 @@
 --platform=linux/arm64 whyour/qinglong:latest
 --platform=linux/arm64 whyour/qinglong:debian
 --platform=linux/arm64 whyour/qinglong:debian-python3.10
-jellyfin/jellyfin
 nyanmisaka/jellyfin
