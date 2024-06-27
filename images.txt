@@ -11,3 +11,4 @@
 wisdomsky/cloudflared-web
 emby/embyserver_arm64v8
 --platform=linux/arm64 homeassistant/home-assistant
+ghcr.io/home-assistant/raspberrypi4-homeassistant:stable
